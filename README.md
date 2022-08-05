@@ -18,5 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 screenshote
 
 1-Home page
+
+![33](https://user-images.githubusercontent.com/74024837/183213122-0eb0db49-250e-4f14-a498-5c51e787f676.jpg)
+
+2-Add page
+
 ![11](https://user-images.githubusercontent.com/74024837/183211279-85aae299-56fc-4e61-8634-d8a4138e08ca.jpg)
 
+3-Edit page
+
+![22](https://user-images.githubusercontent.com/74024837/183212367-683136aa-da97-48db-87cc-8428ad318408.jpg)
